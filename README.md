@@ -8,7 +8,7 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-<img align="left" alt="Hamza Said Mohamed | LinkedIn" width="22px" src="(https://www.linkedin.com/in/hamza-said-mohamed-b2101524b/)" />
+<img align="left" alt="Hamza Said Mohamed | LinkedIn" width="22px" src="https://www.linkedin.com/in/hamza-said-mohamed-b2101524b/" />
 
 [linkedin]: (https://www.linkedin.com/in/hamza-said-mohamed-b2101524b/)
 
