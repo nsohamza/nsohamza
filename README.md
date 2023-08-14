@@ -6,8 +6,10 @@
  
  <b>2. Azure resume. Displaying Azure Blob Storage, Azure Cdn, Azure Functions & Cosmosdb...</b>
  <a href="https://github.com/nsohamza/azure-resume"> <br> [AZURE RESUME] </br> </a>
-  <b>3.Automation Workflow. Create schedule-based automation workflows using Azure Logic Apps </b>
+ <b>3.Automation Workflow. Create schedule-based automation workflows using Azure Logic Apps </b>
  <a href="https://github.com/nsohamza/TrainSchedule"> <br> [AUTOMATION WORKFLOW LOGIC APP] </br> </a>
+ <b>4.Virtual Network Peering.Virtual networks & Virtual Machines</b>
+ <a href="https://github.com/nsohamza/Virtual-Network-Peering"><br> [VN TO VN PEERING.] </br> </a>
 
 
 <h2>📝 Certifications: </h2>
