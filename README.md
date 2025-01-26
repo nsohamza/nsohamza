@@ -1,26 +1,40 @@
-<h1>Hi, I'm Hamza Said <br/><a href="https://github.com/nsohamza"></a><a href="https://www.linkedin.com/in/hamza-said-mohamed-b2101524b/">CLOUD ENGINEER </a> </a></h1>
 
-<h2>👨‍💻 Cloud Projects:</h2>
- <b>1. Cost Management & Budget in Azure.</b>
- <a href ="https://github.com/nsohamza/Budget"> <br> [COST MANAGEMENT & HOW TO CREATE BUDGETS IN AZURE]</br> </a>
- 
- <b>2. Azure resume. Displaying Azure Blob Storage, Azure Cdn, Azure Functions & Cosmosdb...</b>
- <a href="https://github.com/nsohamza/azure-resume"> <br> [AZURE RESUME] </br> </a>
- <b>3.Automation Workflow. Create schedule-based automation workflows using Azure Logic Apps </b>
- <a href="https://github.com/nsohamza/TrainSchedule"> <br> [AUTOMATION WORKFLOW LOGIC APP] </br> </a>
- <b>4.Virtual Network Peering.Virtual networks & Virtual Machines</b>
- <a href="https://github.com/nsohamza/Virtual-Network-Peering"><br> [VN TO VN PEERING.] </br> </a>
+# Hi, I'm Hamza Said  
+### [Cloud Engineer](https://www.linkedin.com/in/hamza-said-mohamed-b2101524b/)
 
+---
 
-<h2>📝 Certifications: </h2>
+## 👨‍💻 Cloud Projects:
 
+1. **Cost Management & Budget in Azure**  
+   [**Cost Management & How to Create Budgets in Azure**](https://github.com/nsohamza/Budget)
 
+2. **Azure Resume**  
+   Displaying Azure Blob Storage, Azure CDN, Azure Functions & CosmosDB  
+   [**Azure Resume**](https://github.com/nsohamza/azure-resume)
 
+3. **Automation Workflow**  
+   Create schedule-based automation workflows using Azure Logic Apps  
+   [**Automation Workflow Logic App**](https://github.com/nsohamza/TrainSchedule)
 
-<h2> 🤳 Connect with me:</h2>
+4. **Virtual Network Peering**  
+   Virtual networks & Virtual Machines  
+   [**VN to VN Peering**](https://github.com/nsohamza/Virtual-Network-Peering)
 
-[<img align="left" alt="Hamza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[linkedin]: https://www.linkedin.com/in/hamza-said-mohamed-b2101524b/
+## 📝 Certifications:
+(Coming Soon)
+
+---
+
+## 🤳 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Said-blue?logo=linkedin)](https://www.linkedin.com/in/hamza-said-mohamed-b2101524b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-nsohamza-lightgrey?logo=github)](https://github.com/nsohamza)
+
+---
+
+### 🌟 *Let’s build something great together!*
 
 
