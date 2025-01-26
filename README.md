@@ -24,7 +24,8 @@
 ---
 
 ## 📝 Certifications:
-(Coming Soon)
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+
 
 ---
 
