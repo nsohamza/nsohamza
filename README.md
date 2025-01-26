@@ -1,10 +1,12 @@
 
 # Hi, I'm Hamza Said  
-### [Cloud Engineer](https://www.linkedin.com/in/hamza-said-mohamed-b2101524b/)
+### [Cloud Engineer && .NET Developer](https://www.linkedin.com/in/hamza-said-mohamed-b2101524b/)
 
 ---
+# My Projects Portfolio
+---
 
-## 👨‍💻 Cloud Projects:
+## 🌩️ Cloud Projects
 
 1. **Cost Management & Budget in Azure**  
    [**Cost Management & How to Create Budgets in Azure**](https://github.com/nsohamza/Budget)
@@ -20,6 +22,13 @@
 4. **Virtual Network Peering**  
    Virtual networks & Virtual Machines  
    [**VN to VN Peering**](https://github.com/nsohamza/Virtual-Network-Peering)
+
+---
+## 🖥️ Frontend Projects
+
+
+---
+## 🔧 Backend Projects
 
 ---
 
