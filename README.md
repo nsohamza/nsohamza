@@ -25,9 +25,10 @@
 
 ---
 ## 🖥️ Frontend Projects
-**Perfume Project**
-FrontEnd Mentor Project
 
+1. **FrontEnd Mentor Project**
+   Html & Css Focused
+[**Perfume Project**](https://github.com/nsohamza/perfumeprojrepo) 
 
 
 ---
