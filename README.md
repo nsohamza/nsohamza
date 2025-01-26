@@ -24,21 +24,20 @@
    [**VN to VN Peering**](https://github.com/nsohamza/Virtual-Network-Peering)
 
 ---
+
+## 📝 Certifications:
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+  
+---
+
 ## 🖥️ Frontend Projects
 
 1. **FrontEnd Mentor Project**
    Html & Css Focused
 [**Perfume Project**](https://github.com/nsohamza/perfumeprojrepo) 
 
-
 ---
 ## 🔧 Backend Projects
-
----
-
-## 📝 Certifications:
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
-
 
 ---
 
