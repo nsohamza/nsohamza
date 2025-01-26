@@ -25,6 +25,9 @@
 
 ---
 ## 🖥️ Frontend Projects
+**Perfume Project**
+FrontEnd Mentor Project
+
 
 
 ---
