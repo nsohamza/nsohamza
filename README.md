@@ -34,7 +34,10 @@
 
 1. **FrontEnd Mentor Project**
    Html & Css Focused
-[**Perfume Project**](https://github.com/nsohamza/perfumeprojrepo) 
+[**Perfume Project**](https://github.com/nsohamza/perfumeprojrepo)
+
+2. **React Project**
+[**WeatherApp Project**](https://github.com/nsohamza/ReactWeather-app)
 
 ---
 ## 🔧 Backend Projects
