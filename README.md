@@ -39,6 +39,9 @@
 2. **React Project**
 [**WeatherApp Project**](https://github.com/nsohamza/ReactWeather-app)
 
+3. **JS,Html,Css Project**
+   [**Pingpong Score**](https://github.com/nsohamza/pingpongscoreJSpvt2)
+
 ---
 ## 🔧 Backend Projects
 
