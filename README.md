@@ -48,6 +48,9 @@
 ---
 ## 🔧 Backend Projects
 
+1. **.Net & Angular**
+   [**book-quote-managing**](https://github.com/nsohamza/book-quote-manager)
+
 ---
 
 ## 🤳 Connect with Me:
