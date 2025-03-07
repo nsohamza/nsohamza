@@ -39,13 +39,16 @@
 2. **React Project**
 [**WeatherApp Project**](https://github.com/nsohamza/ReactWeather-app)
 
-3. **JS,Html,Css Project**
+3. **Javascript,Html,Css Project**
+[**Click Game Project**](https://github.com/nsohamza/JSprojectpvt2)
+
+4. **JS,Html,Css Project**
    [**Pingpong Score Project**](https://github.com/nsohamza/pingpongscoreJSpvt2)
 
-4. **Javascript,Html,Css Project**
+5. **Javascript,Html,Css Project**
    [**Todo list Project**](https://github.com/nsohamza/todolistJSpvt2)
 
-5. **Javascript,Html,Css Project**
+6. **Javascript,Html,Css Project**
    [**Landing Page**](https://github.com/nsohamza/landingpage)
 
 ---
