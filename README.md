@@ -40,10 +40,13 @@
 [**WeatherApp Project**](https://github.com/nsohamza/ReactWeather-app)
 
 3. **JS,Html,Css Project**
-   [**Pingpong Score**](https://github.com/nsohamza/pingpongscoreJSpvt2)
+   [**Pingpong Score Project**](https://github.com/nsohamza/pingpongscoreJSpvt2)
 
 4. **Javascript,Html,Css Project**
-   [**Todo list**](https://github.com/nsohamza/todolistJSpvt2)
+   [**Todo list Project**](https://github.com/nsohamza/todolistJSpvt2)
+
+5. **Javascript,Html,Css Project**
+   [**Landing Page**](https://github.com/nsohamza/landingpage)
 
 ---
 ## 🔧 Backend Projects
