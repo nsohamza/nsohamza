@@ -42,6 +42,9 @@
 3. **JS,Html,Css Project**
    [**Pingpong Score**](https://github.com/nsohamza/pingpongscoreJSpvt2)
 
+4. **Javascript,Html,Css Project**
+   [**Todo list**](https://github.com/nsohamza/todolistJSpvt2)
+
 ---
 ## 🔧 Backend Projects
 
