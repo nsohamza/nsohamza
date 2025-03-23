@@ -8,20 +8,39 @@
 
 ## 🌩️ Cloud Projects
 
-1. **Creating Azure Virtual Networks**
-   
-   [**Creating azure virtual netowrks, subnets and NSG to protect those subnets**](https://github.com/nsohamza/AzureVnet)
-   
-3.  **Cost Management & Budget in Azure**  
-   [**Cost Management & How to Create Budgets in Azure**](https://github.com/nsohamza/Budget)
+# Azure Learning Projects
 
-5. **Automation Workflow**  
-   Create schedule-based automation workflows using Azure Logic Apps  
-   [**Automation Workflow Logic App**](https://github.com/nsohamza/TrainSchedule)
+This repository index links to hands-on Azure projects covering key cloud concepts and services. Each project includes detailed steps and examples.
 
-6. **Virtual Network Peering**  
-   Virtual networks & Virtual Machines  
-   [**VN to VN Peering**](https://github.com/nsohamza/Virtual-Network-Peering)
+---
+
+## 1. Creating Azure Virtual Networks
+- **Description**: Set up Azure Virtual Networks (VNets), subnets, and Network Security Groups (NSGs) to secure network traffic.  
+- **Repository**: [**Creating Azure Virtual Networks, Subnets, and NSGs**](https://github.com/nsohamza/AzureVnet)
+
+---
+
+## 2. Microsoft Entra ID
+- **Description**: Create an internship group in Microsoft Entra ID, add members (interns), and assign an owner for role-based access management.  
+- **Repository**: [**Create Internship Group, Members, and Owner**](https://github.com/nsohamza/MicrosoftEntraID)
+
+---
+
+## 3. Cost Management & Budget in Azure
+- **Description**: Explore Azure Cost Management tools and learn to create budgets to track and control cloud spending.  
+- **Repository**: [**Cost Management & How to Create Budgets in Azure**](https://github.com/nsohamza/Budget)
+
+---
+
+## 4. Automation Workflow
+- **Description**: Build schedule-based automation workflows using Azure Logic Apps (e.g., train schedule automation).  
+- **Repository**: [**Automation Workflow Logic App**](https://github.com/nsohamza/TrainSchedule)
+
+---
+
+## 5. Virtual Network Peering
+- **Description**: Connect Azure Virtual Networks (VNets) and Virtual Machines (VMs) via VNet peering for seamless communication.  
+- **Repository**: [**VNet-to-VNet Peering**](https://github.com/nsohamza/Virtual-Network-Peering)
 
 ---
 
